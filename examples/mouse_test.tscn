@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cq8h2wxypufa0"]
+
+[ext_resource type="Script" uid="uid://6aao3udx4ekh" path="res://examples/mouse_test.gd" id="1_5keuc"]
+
+[node name="Node2D" type="Node2D" unique_id=635299360]
+script = ExtResource("1_5keuc")
+
+[node name="Node" type="Node" parent="." unique_id=1770093813]
